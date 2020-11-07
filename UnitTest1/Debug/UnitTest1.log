@@ -1,0 +1,4 @@
+﻿  UnitTest1.cpp
+\\Mac\Home\Desktop\idk\UnitTest1\UnitTest1.cpp(19,10): error C2065: a: необъявленный идентификатор
+\\Mac\Home\Desktop\idk\UnitTest1\UnitTest1.cpp(19,13): error C2065: b: необъявленный идентификатор
+\\Mac\Home\Desktop\idk\UnitTest1\UnitTest1.cpp(19,15): error C2065: c: необъявленный идентификатор
